@@ -33,8 +33,8 @@ Mod adding video trigger to the top left button in Real world chapter
 
 #### **Plugin Installation**
 
-1. **Download** `VideoTrigger.zip` from the [releases page](https://github.com/Rist8/MiSide-Video-Trigger/releases/tag/latest).  
-   > **Скачайте** `VideoTrigger.zip` с [страницы релизов](https://github.com/Rist8/MiSide-Video-Trigger/releases/tag/latest).
+1. **Download** `VideoTrigger.zip` from the [releases page](https://github.com/Rist8/MiSide-Video-Trigger/releases/tag/Release-1.0.0).  
+   > **Скачайте** `VideoTrigger.zip` с [страницы релизов](https://github.com/Rist8/MiSide-Video-Trigger/releases/tag/Release-1.0.0).
 
 2. **Extract** the `VideoTrigger` folder into the `...\MiSide\BepInEx\plugins` directory of your game (so that `plugins\VideoTrigger` path exists).
    > **Распакуйте** папку `VideoTrigger` в каталог `...\MiSide\BepInEx\plugins` вашей игры (так чтобы появился путь `plugins\VideoTrigger`).
